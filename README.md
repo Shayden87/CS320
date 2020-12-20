@@ -97,3 +97,13 @@ to the cleanliness of the Project. Going forward, in order to avoid this technic
 always be conscious of making sure that I review code before and after testing. I need to make sure that the code is clean, 
 annotated, and easy to understand before proceeding to the test development stage. This will ensure the entire process from A-Z
 is running at top level performance and quality. 
+
+#How can I ensure that my code, program, or software is functional and secure?
+This can be achieved through conscientious testing of the program to ensure its fuctionality and security. Making sure to setup
+a testing suite that is at least testing the program fuctions at 80% or higher. 
+
+#How do I interpret user needs and incorporate them into a program?
+You want to look at what the user is wanting to get from your program. That fuctionality should be then added to your program and tested adequately to ensure that it is being delivered to the end user at the level they are expecting.
+#How do I approach designing software?
+I approach the designing of software as a multi-staged process. First, taking the requirements needed to be met and developing those features as well as tests for the features as well. Second, putting those different fuctions and features together. Finally, testing and trying to find faults in the finished product before shipping it out.
+
