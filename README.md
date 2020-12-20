@@ -104,6 +104,7 @@ a testing suite that is at least testing the program fuctions at 80% or higher.
 
 #How do I interpret user needs and incorporate them into a program?
 You want to look at what the user is wanting to get from your program. That fuctionality should be then added to your program and tested adequately to ensure that it is being delivered to the end user at the level they are expecting.
+
 #How do I approach designing software?
 I approach the designing of software as a multi-staged process. First, taking the requirements needed to be met and developing those features as well as tests for the features as well. Second, putting those different fuctions and features together. Finally, testing and trying to find faults in the finished product before shipping it out.
 
